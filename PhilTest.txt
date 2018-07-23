@@ -1,0 +1,4 @@
+Readme.txt
+
+Hello,
+This is a test of the github features
